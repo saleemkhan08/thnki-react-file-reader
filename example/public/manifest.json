@@ -1,0 +1,8 @@
+{
+  "short_name": "thnki-react-file-reader",
+  "name": "thnki-react-file-reader",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
